@@ -88,3 +88,8 @@ button{
   font-family: 'Nunito', sans-serif;
 }
 
+.names{
+  display: block;
+  font-family: 'Amatic SC', cursive;
+  font-size: 500px;
+}
